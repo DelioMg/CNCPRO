@@ -16,6 +16,6 @@ A CNC feita de sucatas terá as seguintes funcionalidades:
 
 5. Interface de usuário: Será desenvolvida uma interface de usuário para controlar a CNC, permitindo a configuração de parâmetros, importação de arquivos de desenho, entre outras funcionalidades.
 
-Contribuição
+# Contribuição
 
 Contribuições para o desenvolvimento do projeto são bem-vindas. 
